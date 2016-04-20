@@ -1,3 +1,3 @@
 # Hello-World
 
-Hellom From singapore.
+Hello From singapore.
